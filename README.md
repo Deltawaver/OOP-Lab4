@@ -3,6 +3,6 @@
 ##### *Журавлев Андрей* 
 ___
 ### Вариант 30
-![Вариант](images/variant.png)
+![Вариант](images/variantik.png)
 ### Задание
-![Задание](images/task.png)
+![Задание](images/taskik.png)
